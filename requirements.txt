@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==1.5.3
+python==3.12.8
+pandasai==2.4.2
+streamlit~=1.41.1
+torch==2.4.1
+#conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 pytorch-cuda=12.4 -c pytorch -c nvidia#
+langchain-ollama==0.2.2
